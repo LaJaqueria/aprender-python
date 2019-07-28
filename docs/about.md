@@ -1,14 +1,20 @@
-# Sobre nosotros
+# Autor / autores
 
-![Foto de perfil](img/logo.png)
+[![Foto de perfil](img/logo-jaqueria.jpg)](https://lajaqueria.org/)
 
-[La Jaquería](https://lajaqueria.org/) es un grupo de personas que se reunen en un lugar para hacer cosas. Muchas veces estas cosas sin de índole tecnológica, pero es que tecnología es un botijo. Lo que nos une ese afán de aprender como funciona el mundo y poder mejorarlo con nuestras manos. A esta acción se le llama "hackear", así que es por esto que La Jaquería es un hackspace / makespace.
+**Autor**:
 
-Moramos en Almería, una pequeña ciudad entre el sur de Europa y el norte de África. Probablemente la conozcas por tener la única obra colectiva humana que es capaz de ser vista desde el espacio, los invernadores del poniente almeriense, o como se le conoce también, el Mar de Plástico.
+[La Jaquería](https://lajaqueria.org/)
 
-Si te apetece contactar con nosotros o incluso quieres hacerte soci@, aquí te dejamos nuestras redes sociales:
+**Bio**:
 
-* Email -> lajaqueria@gmail.com
-* [Github](https://github.com/LaJaqueria)
-* [Twitter](https://twitter.com/LaJaqueria)
-* [Linkedin](https://www.linkedin.com/company/lajaqueria/)
+La Jaquería es un [hackspace](https://es.wikipedia.org/wiki/Hacklab) / makespace que se encuentra en Almería. Es decir, un espacio físico donde juntarnos para poder aprender colectivamente, tanto las unas de las otras, como juntas. Nos gusta la tecnología y creemos que es una herramienta importante para poder mejorar nuestro mundo. Pero para nosotras lo importante es el factor humano. Por eso, viéndola desde las artes y las humanidades, podemos usarla para poder mejorar nuestro mundo. Eso significa hackear, mejorar.
+
+**Motivaciones**:
+
+Desde La Jaquería queremos no dejes pasar la oportunidad de que compartas con el mundo un pedacito de ti. Da igual si sabes programar o no, incluso si eres un zote con la tecnología. Este recurso que te hemos preparado está pensado para ser usado por cualquier persona. Después de este tutorial habrás aprendido a como programar con Python, abriéndose ante ti un camino de posibilidades infinito.
+
+Además que redactar y compartir es una de las mejores maneras de aprender. Recuerda el dicho:
+
+!!! quote "Confucio"
+    *Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.*
